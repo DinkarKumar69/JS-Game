@@ -23,13 +23,13 @@ body {
     width: 138px;
     height: 200px;
     position: absolute;
-    bottom: 154px;
-    left: 52px;
+    bottom: 159px;
+    left: 59px;
 }
 
 .lion {
-    width: 324px;
-    height: 139px;
+    width: 350px;
+    height: 140px;
     background-image: url(lion.gif);
     background-size: cover;
     position: absolute;
